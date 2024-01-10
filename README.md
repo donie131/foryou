@@ -1,2 +1,2 @@
 # foryou
-web
+https://donie131.github.io/foryou/
